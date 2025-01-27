@@ -5,7 +5,7 @@ Take a sneak peek at a modern and intuitive healthcare app UI! This app is desig
 
 | **Screen 1: Dashboard** | **Screen 2: Patient Details** |
 |--------------------------|------------------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Patient Details](screenshots/patient_details.png) |
+| ![Dashboard](screenshots/dashboard.jpeg) | ![Patient Details](screenshots/health_need.jpeg) |
 
 ---
 

@@ -7,19 +7,11 @@ Take a sneak peek at a modern and intuitive healthcare app UI! This app is desig
 |--------------------------|------------------------------|
 | ![Dashboard](screenshots/dashboard.jpeg) | ![Patient Details](screenshots/health_need.jpeg) |
 
----
-
-## ✨ Features  
-- **Clean & Modern Design:** Sleek UI optimized for a seamless user experience.  
-- **Healthcare Dashboard:** Overview of health metrics and appointments.  
-- **Patient Details Screen:** Displays comprehensive patient information.  
-- **Responsive Layout:** Looks great on all devices.  
 
 ---
 
 ## 🔧 Tech Stack  
-- **Framework:** [Flutter](https://flutter.dev/)  
-- **State Management:** Provider  
+- **Framework:** [Flutter](https://flutter.dev/)    
 - **Design:** Custom Widgets & Material Design  
 
 ---

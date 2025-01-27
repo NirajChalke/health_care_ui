@@ -1,16 +1,30 @@
-# health_care_ui
+# 🩺 Healthcare App UI
 
-A new Flutter project.
+## 📱 Preview  
+Take a sneak peek at a modern and intuitive healthcare app UI! This app is designed with Flutter and showcases two beautifully crafted screens.  
 
-## Getting Started
+| **Screen 1: Dashboard** | **Screen 2: Patient Details** |
+|--------------------------|------------------------------|
+| ![Dashboard](screenshots/dashboard.png) | ![Patient Details](screenshots/patient_details.png) |
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features  
+- **Clean & Modern Design:** Sleek UI optimized for a seamless user experience.  
+- **Healthcare Dashboard:** Overview of health metrics and appointments.  
+- **Patient Details Screen:** Displays comprehensive patient information.  
+- **Responsive Layout:** Looks great on all devices.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Tech Stack  
+- **Framework:** [Flutter](https://flutter.dev/)  
+- **State Management:** Provider  
+- **Design:** Custom Widgets & Material Design  
+
+---
+
+## 🚀 Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/healthcare-app-ui.git
